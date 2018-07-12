@@ -1,6 +1,6 @@
 # project-two
 
-###Placeholder
+### Placeholder
 
 Lorem ipsum dolor sit amet, ad eam elitr tantas civibus. Dolor expetendis est in, ea vim putent diceret. Ad hinc expetenda elaboraret sed, in esse.
 
